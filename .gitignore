@@ -1,0 +1,4 @@
+data/config.yaml
+logs/logs.log
+rpi_fb_weather.code-workspace
+/__pycache__
